@@ -1,0 +1,2 @@
+route add x.x.x.x mask y.y.y.y z.z.z.z
+route add m.m.m.m mask n.n.n.n o.o.o.o
